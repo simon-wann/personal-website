@@ -20,13 +20,18 @@
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
-
 }
 
 .about__container p {
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
     text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Small Devices */

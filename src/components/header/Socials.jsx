@@ -5,8 +5,8 @@ import {BsGithub} from 'react-icons/bs'
 const Socials = () => {
   return (
     <div className='socials'>
-        <a href="https://linkedin.com" target="_blank"><BsLinkedin/></a>
-        <a href="https://github.com" target="_blank"><BsGithub/></a>
+        <a href="https://www.linkedin.com/in/simonwan2002/" target="_blank"><BsLinkedin/></a>
+        <a href="https://https://github.com/simon-wann.com" target="_blank"><BsGithub/></a>
     </div>
   )
 }

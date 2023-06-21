@@ -14,9 +14,11 @@ const Header = () => {
         <Buttons />
         <Socials />
 
-        <div className="PFP">
-          <img src={Pfp} alt="PFP" />
+        <div className='flex-container'>
+          <img className="PFP"src={Pfp} alt="PFP" />
         </div>
+
+      
 
       </div>
     </header>
