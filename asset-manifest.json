@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.501c849b.css",
-    "main.js": "/personal-website/static/js/main.933fcbf4.js",
+    "main.css": "/personal-website/static/css/main.921eb679.css",
+    "main.js": "/personal-website/static/js/main.ee9b9afa.js",
     "static/js/787.bc7d429a.chunk.js": "/personal-website/static/js/787.bc7d429a.chunk.js",
-    "static/media/Profile Picture.jpg": "/personal-website/static/media/Profile Picture.6bea6132852b5c19f753.jpg",
+    "static/media/Profile Picture.jpg": "/personal-website/static/media/Profile Picture.98e6f02501f0180fb735.jpg",
     "static/media/Simon-Wan-Resume.pdf": "/personal-website/static/media/Simon-Wan-Resume.1badfd5b4faa4c3f22d2.pdf",
     "index.html": "/personal-website/index.html",
-    "main.501c849b.css.map": "/personal-website/static/css/main.501c849b.css.map",
-    "main.933fcbf4.js.map": "/personal-website/static/js/main.933fcbf4.js.map",
+    "main.921eb679.css.map": "/personal-website/static/css/main.921eb679.css.map",
+    "main.ee9b9afa.js.map": "/personal-website/static/js/main.ee9b9afa.js.map",
     "787.bc7d429a.chunk.js.map": "/personal-website/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.501c849b.css",
-    "static/js/main.933fcbf4.js"
+    "static/css/main.921eb679.css",
+    "static/js/main.ee9b9afa.js"
   ]
 }
