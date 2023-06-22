@@ -10,7 +10,7 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__1">
-          <img src={NYPlogo} />
+          <img src={NYPlogo} alt='NYPlogo'/>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill />
