@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import Buttons from './Buttons'
-import Pfp from '../../assets/Profile Picture.jpg'
+import Pfp1 from '../../assets/Pfp1.jpg'
 import Socials from './Socials'
 
 const Header = () => {
@@ -15,7 +15,7 @@ const Header = () => {
         <Socials />
 
         <div className='flex-container'>
-          <img className="PFP"src={Pfp} alt="PFP" />
+          <img className="PFP"src={Pfp1} alt="PFP1" />
         </div>
 
       
