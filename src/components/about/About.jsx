@@ -5,7 +5,7 @@ import Pfp from '../../assets/Profile Picture.jpg'
 const About = () => {
   return (
     <section id='about'>
-      
+
           <h5>Get to know me</h5>
           <h2>About</h2>
 
@@ -16,7 +16,13 @@ const About = () => {
             </div>
 
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Hi! I'm Simon, a rising senior at Baruch College, majoring in Computer Information Systems. 
+            As a passionate and driven individual, I am dedicated to exploring the fascinating world of technology 
+            and its endless possibilities. Currently, I am honing my skills and expanding my knowledge as a Web 
+            Development Intern, where I have the opportunity to apply my classroom learnings to real-world projects. 
+            With a new foundation in web development and an eye for detail, I strive to create user-friendly 
+            and visually appealing websites. I am excited about the ever-evolving field of technology and look forward 
+            to making meaningful contributions to the digital landscape.
           </p>
           </div>
 
