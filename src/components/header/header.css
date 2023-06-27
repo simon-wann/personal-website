@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 0rem;
     overflow: hidden;
 }
 
@@ -40,6 +40,7 @@ header {
     height: 50%;
     border-radius: 12rem;
     overflow: hidden;
+    max-width: 100%;
 }
 
 .flex-container {
@@ -48,6 +49,7 @@ header {
     align-items: center;
     justify-content: center;
     margin-top: 4rem;
+    object-fit: contain;
 }
 
 /* Small Devices */
@@ -64,7 +66,7 @@ header {
 /* Medium Devices */
 @media screen and (max-width: 1024px) {
     header {
-        height: 78vh;
+        height: 100vh;
     }
     
 }
