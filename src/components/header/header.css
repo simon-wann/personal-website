@@ -38,7 +38,7 @@ header {
 .PFP {
     width: 50%;
     height: 50%;
-    border-radius: 12rem;
+    border-radius: 192px;
     overflow: hidden;
     max-width: 100%;
 }
