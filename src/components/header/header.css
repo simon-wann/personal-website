@@ -55,18 +55,22 @@ header {
 /* Small Devices */
 @media screen and (max-width: 600px) {
     header {
-        height: 85vh;
+        height: 60vh;
     }
 
     .socials {
         display: none;
+    }
+
+    .PFP {
+        width: 60%;
     }
 }
 
 /* Medium Devices */
 @media screen and (max-width: 1024px) {
     header {
-        height: 110vh;
+        height: 90vh;
     }
     
 }
@@ -74,6 +78,6 @@ header {
 /* Large Devices */
 @media screen and (min-width: 1200px) {
     header {
-        height: 150vh;
+        height: 120vh;
     }
 }
