@@ -35,7 +35,7 @@
 /* Small Devices */
 @media screen and (max-width: 600px) {
     .portfolio__container {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr !important;
         gap: 1rem;
     }
 }
