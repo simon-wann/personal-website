@@ -24,7 +24,7 @@ header {
     gap: 1rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    top: 18rem;
 }
 
 .socials::after {
