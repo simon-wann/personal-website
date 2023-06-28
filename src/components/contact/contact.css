@@ -67,7 +67,7 @@ input, textarea {
     }
 
     .contact-block {
-        margin-top: 2450px;
+        margin-top: 2350px;
     }
 }
 
@@ -93,13 +93,13 @@ input, textarea {
 /* Medium Devices */
 @media screen and (min-width: 992px) {
     .contact-block {
-        margin-top: 900px;
+        margin-top: 300px;
     }
 }
 
 /* Large Devices */
 @media screen and (min-width: 1200px) {
     .contact-block {
-        margin-top: 300px;
+        margin-top: 250px;
     }
 }
