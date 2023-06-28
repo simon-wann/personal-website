@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.06591510.css",
+    "main.css": "/personal-website/static/css/main.8e57a178.css",
     "main.js": "/personal-website/static/js/main.9daf14d2.js",
     "static/js/787.bc7d429a.chunk.js": "/personal-website/static/js/787.bc7d429a.chunk.js",
     "static/media/Pfp1.jpg": "/personal-website/static/media/Pfp1.52132db6fd78357c829c.jpg",
@@ -9,12 +9,12 @@
     "static/media/Simon-Wan-Resume.pdf": "/personal-website/static/media/Simon-Wan-Resume.1badfd5b4faa4c3f22d2.pdf",
     "static/media/NYP logo.png": "/personal-website/static/media/NYP logo.d6074f0c1613e700b568.png",
     "index.html": "/personal-website/index.html",
-    "main.06591510.css.map": "/personal-website/static/css/main.06591510.css.map",
+    "main.8e57a178.css.map": "/personal-website/static/css/main.8e57a178.css.map",
     "main.9daf14d2.js.map": "/personal-website/static/js/main.9daf14d2.js.map",
     "787.bc7d429a.chunk.js.map": "/personal-website/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06591510.css",
+    "static/css/main.8e57a178.css",
     "static/js/main.9daf14d2.js"
   ]
 }
