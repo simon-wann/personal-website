@@ -67,15 +67,33 @@ input, textarea {
     }
 
     .contact-block {
-        margin-top: 2300px;
+        margin-top: 2450px;
+    }
+}
+
+/* Small Devices */
+@media screen and (min-width: 600px) {
+    .container.contact__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .contact-block {
+        margin-top: 650px;
     }
 }
 
 /* Medium Devices */
-@media screen and (max-width: 1024px) {
-    .container.contact__container {
-        grid-template-columns: 1fr;
-        gap: 2rem;
+@media screen and (min-width: 768px) {
+    .contact-block {
+        margin-top: 730px;
+    }
+}
+
+/* Medium Devices */
+@media screen and (min-width: 992px) {
+    .contact-block {
+        margin-top: 900px;
     }
 }
 

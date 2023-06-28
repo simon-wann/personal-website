@@ -15,7 +15,7 @@ const Portfolio = () => {
             <img src={Project1} alt='' />
           </div>
             
-          <h3>Project1</h3>
+          <h3>Project</h3>
 
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='blank'>Github</a>
@@ -29,7 +29,7 @@ const Portfolio = () => {
             <img src={Project1} alt='' />
           </div>
             
-          <h3>Project1</h3>
+          <h3>Project</h3>
 
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='blank'>Github</a>
@@ -43,7 +43,7 @@ const Portfolio = () => {
             <img src={Project1} alt='' />
           </div>
             
-          <h3>Project1</h3>
+          <h3>Project</h3>
 
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='blank'>Github</a>
@@ -57,7 +57,7 @@ const Portfolio = () => {
             <img src={Project1} alt='' />
           </div>
             
-          <h3>Project1</h3>
+          <h3>Project</h3>
 
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='blank'>Github</a>
@@ -71,7 +71,7 @@ const Portfolio = () => {
             <img src={Project1} alt='' />
           </div>
             
-          <h3>Project1</h3>
+          <h3>Project</h3>
 
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='blank'>Github</a>
@@ -85,7 +85,7 @@ const Portfolio = () => {
             <img src={Project1} alt='' />
           </div>
             
-          <h3>Project1</h3>
+          <h3>Project</h3>
 
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='blank'>Github</a>
