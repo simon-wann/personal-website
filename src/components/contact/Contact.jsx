@@ -6,8 +6,11 @@ import {BsChatText} from 'react-icons/bs'
 const Contact = () => {
   return (
     <section id='contact'>
-      <h5>Get in Touch</h5>
-      <h2>Contact</h2>
+
+      <div className="contact-block">
+
+
+      <h2>Contact Me</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -35,6 +38,8 @@ const Contact = () => {
           <textarea name="message" rows="7" placeholder='Your Message' required ></textarea>
           <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
+      </div>
+
       </div>
     </section>
   )

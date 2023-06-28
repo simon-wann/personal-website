@@ -1,3 +1,7 @@
+h5 {
+    color: var(--color-light);
+}
+
 .container.contact__container {
     width: 58%;
     display: grid;
@@ -59,7 +63,11 @@ input, textarea {
 @media screen and (max-width: 600px) {
     .container.contact__container {
         width: var(--container-width-sm);
-        margin-top: 10px;
+        display: flex;
+    }
+
+    .contact-block {
+        margin-top: 2300px;
     }
 }
 
@@ -68,5 +76,16 @@ input, textarea {
     .container.contact__container {
         grid-template-columns: 1fr;
         gap: 2rem;
+    }
+
+    .contact-block {
+        margin-top: 600px;
+    }
+}
+
+/* Large Devices */
+@media screen and (min-width: 1200px) {
+    .contact-block {
+        margin-top: 300px;
     }
 }

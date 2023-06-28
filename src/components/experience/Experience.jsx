@@ -6,6 +6,8 @@ import NYPlogo from '../../assets/NYP logo.png'
 const Experience = () => {
   return (
     <section id='experience'>
+      <div className="experience-block">
+
       <h2>Experience</h2>
 
       <div className="container experience__container">
@@ -25,6 +27,7 @@ const Experience = () => {
         </div>
       </div>
 
+      </div>
     </section>
   )
 }
