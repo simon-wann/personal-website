@@ -30,8 +30,8 @@ header {
 
 .socials::after {
     content: '';
-    width: 1px;
-    height: 2rem;
+    width: 2px;
+    height: 8rem;
     background: var(--color-primary);
 }
 
