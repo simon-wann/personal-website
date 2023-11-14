@@ -12,11 +12,12 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__1">
-
+        U.S. Department of Homeland Security
 
           <div className="experience__content">
             <article className='experience__details'>
-
+            <p>Apply concepts, protocols, and tools acquired through coursework in the real world.
+            Work alongside information technology experts to leverage data as a strategic asset.</p>
             </article>
           </div>
 
